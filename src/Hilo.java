@@ -1,6 +1,6 @@
 
 /**  Explicacion: sale desordenado porque al no utilizar metodos que lo organicen, ni tienen un orden especifico que se halla
- * especificado en un metodos los caracteres por lo tanto  al imprimirse salen desordenados **/
+ * especificado en un metodos los caractere por lo tanto  al imprimirse salen desordenados **/
 
 
 
